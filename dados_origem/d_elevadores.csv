@@ -1,0 +1,61 @@
+id_elevador,codigo_elevador,bairro,cidade,uf,localizacao_mapa,modelo,ano_instalacao,fabricante,capacidade_kg,id_cliente,regiao_atendimento
+1,ELV-001,Das Industrias I,São Paulo,SP,"Das Industrias I, São Paulo, SP",Thyssen Evo,2022,Otis,800,66,Centro
+2,ELV-002,São João Batista,São Paulo,SP,"São João Batista, São Paulo, SP",Schindler 5500,2019,Otis,600,19,Zona Oeste
+3,ELV-003,Buraco Quente,São Paulo,SP,"Buraco Quente, São Paulo, SP",Thyssen Evo,2017,Otis,450,64,Zona Leste
+4,ELV-004,Vila Vista Alegre,São Paulo,SP,"Vila Vista Alegre, São Paulo, SP",Atlas Sigma 2000,2020,Schindler,450,15,Zona Oeste
+5,ELV-005,São Tomaz,São Paulo,SP,"São Tomaz, São Paulo, SP",Atlas Sigma 2000,2022,Otis,450,25,Zona Oeste
+6,ELV-006,Morro Dos Macacos,São Paulo,SP,"Morro Dos Macacos, São Paulo, SP",Thyssen Evo,2012,Schindler,450,63,Zona Norte
+7,ELV-007,São José,São Paulo,SP,"São José, São Paulo, SP",Schindler 5500,2017,ThyssenKrupp,800,33,Zona Sul
+8,ELV-008,Alto Barroca,São Paulo,SP,"Alto Barroca, São Paulo, SP",Schindler 5500,2023,Otis,600,43,Zona Oeste
+9,ELV-009,Coqueiros,São Paulo,SP,"Coqueiros, São Paulo, SP",Thyssen Evo,2018,Schindler,450,15,Zona Norte
+10,ELV-010,Lourdes,São Paulo,SP,"Lourdes, São Paulo, SP",Atlas Sigma 2000,2020,Atlas,450,23,Zona Sul
+11,ELV-011,Álvaro Camargos,São Paulo,SP,"Álvaro Camargos, São Paulo, SP",Atlas Sigma 2000,2021,Atlas,800,9,Zona Sul
+12,ELV-012,Ventosa,São Paulo,SP,"Ventosa, São Paulo, SP",Otis Gen2,2023,Otis,600,45,Centro
+13,ELV-013,Conjunto Paulo Vi,São Paulo,SP,"Conjunto Paulo Vi, São Paulo, SP",Otis Gen2,2015,Otis,450,64,Zona Norte
+14,ELV-014,Granja Werneck,São Paulo,SP,"Granja Werneck, São Paulo, SP",Schindler 5500,2013,Schindler,450,16,Zona Leste
+15,ELV-015,Santa Efigênia,São Paulo,SP,"Santa Efigênia, São Paulo, SP",Schindler 5500,2016,Otis,450,4,Zona Norte
+16,ELV-016,Vila Copacabana,São Paulo,SP,"Vila Copacabana, São Paulo, SP",Thyssen Evo,2013,ThyssenKrupp,800,18,Zona Oeste
+17,ELV-017,Vila Vista Alegre,São Paulo,SP,"Vila Vista Alegre, São Paulo, SP",Otis Gen2,2015,ThyssenKrupp,800,15,Zona Leste
+18,ELV-018,Urca,São Paulo,SP,"Urca, São Paulo, SP",Thyssen Evo,2016,Schindler,800,22,Centro
+19,ELV-019,Maria Tereza,São Paulo,SP,"Maria Tereza, São Paulo, SP",Otis Gen2,2011,Otis,600,24,Zona Sul
+20,ELV-020,Distrito Industrial Do Jatoba,São Paulo,SP,"Distrito Industrial Do Jatoba, São Paulo, SP",Schindler 5500,2016,Atlas,800,48,Zona Norte
+21,ELV-021,São Lucas,São Paulo,SP,"São Lucas, São Paulo, SP",Thyssen Evo,2013,Schindler,800,44,Zona Sul
+22,ELV-022,Providencia,São Paulo,SP,"Providencia, São Paulo, SP",Atlas Sigma 2000,2017,Schindler,450,32,Zona Norte
+23,ELV-023,Penha,São Paulo,SP,"Penha, São Paulo, SP",Otis Gen2,2022,Schindler,450,13,Zona Sul
+24,ELV-024,Betânia,São Paulo,SP,"Betânia, São Paulo, SP",Thyssen Evo,2019,Schindler,450,48,Zona Norte
+25,ELV-025,Jardim América,São Paulo,SP,"Jardim América, São Paulo, SP",Otis Gen2,2018,Schindler,450,65,Zona Oeste
+26,ELV-026,Penha,São Paulo,SP,"Penha, São Paulo, SP",Atlas Sigma 2000,2023,Schindler,450,52,Centro
+27,ELV-027,Monsenhor Messias,São Paulo,SP,"Monsenhor Messias, São Paulo, SP",Atlas Sigma 2000,2018,Atlas,450,8,Zona Leste
+28,ELV-028,Monte São José,São Paulo,SP,"Monte São José, São Paulo, SP",Schindler 5500,2015,Otis,600,5,Centro
+29,ELV-029,Bonsucesso,São Paulo,SP,"Bonsucesso, São Paulo, SP",Schindler 5500,2017,ThyssenKrupp,450,64,Zona Leste
+30,ELV-030,Vila Inestan,São Paulo,SP,"Vila Inestan, São Paulo, SP",Otis Gen2,2019,Schindler,600,17,Zona Sul
+31,ELV-031,Chácara Leonina,São Paulo,SP,"Chácara Leonina, São Paulo, SP",Otis Gen2,2022,ThyssenKrupp,800,68,Centro
+32,ELV-032,Vila União,São Paulo,SP,"Vila União, São Paulo, SP",Atlas Sigma 2000,2023,Atlas,600,65,Zona Sul
+33,ELV-033,Marajó,São Paulo,SP,"Marajó, São Paulo, SP",Atlas Sigma 2000,2014,ThyssenKrupp,450,39,Centro
+34,ELV-034,Caiçaras,São Paulo,SP,"Caiçaras, São Paulo, SP",Thyssen Evo,2018,Atlas,600,41,Zona Oeste
+35,ELV-035,Silveira,São Paulo,SP,"Silveira, São Paulo, SP",Atlas Sigma 2000,2013,Atlas,600,53,Zona Leste
+36,ELV-036,Parque São José,São Paulo,SP,"Parque São José, São Paulo, SP",Atlas Sigma 2000,2013,Otis,600,31,Zona Sul
+37,ELV-037,Pirineus,São Paulo,SP,"Pirineus, São Paulo, SP",Atlas Sigma 2000,2022,Schindler,600,27,Zona Norte
+38,ELV-038,Minas Caixa,São Paulo,SP,"Minas Caixa, São Paulo, SP",Thyssen Evo,2011,Atlas,450,7,Centro
+39,ELV-039,Santa Inês,São Paulo,SP,"Santa Inês, São Paulo, SP",Schindler 5500,2023,Schindler,800,25,Zona Sul
+40,ELV-040,Vila Independencia 2ª Seção,São Paulo,SP,"Vila Independencia 2ª Seção, São Paulo, SP",Schindler 5500,2022,Atlas,600,37,Zona Sul
+41,ELV-041,João Pinheiro,São Paulo,SP,"João Pinheiro, São Paulo, SP",Schindler 5500,2016,Schindler,600,60,Centro
+42,ELV-042,Castelo,São Paulo,SP,"Castelo, São Paulo, SP",Schindler 5500,2010,Schindler,450,58,Centro
+43,ELV-043,Pousada Santo Antonio,São Paulo,SP,"Pousada Santo Antonio, São Paulo, SP",Thyssen Evo,2013,Schindler,450,43,Centro
+44,ELV-044,São Tomaz,São Paulo,SP,"São Tomaz, São Paulo, SP",Atlas Sigma 2000,2022,Otis,800,19,Centro
+45,ELV-045,Tirol,São Paulo,SP,"Tirol, São Paulo, SP",Schindler 5500,2017,Otis,800,49,Zona Sul
+46,ELV-046,Alpes,São Paulo,SP,"Alpes, São Paulo, SP",Atlas Sigma 2000,2015,Schindler,800,44,Zona Sul
+47,ELV-047,Jardim Montanhês,São Paulo,SP,"Jardim Montanhês, São Paulo, SP",Otis Gen2,2012,Otis,800,40,Zona Sul
+48,ELV-048,Alto Caiçaras,São Paulo,SP,"Alto Caiçaras, São Paulo, SP",Schindler 5500,2010,Atlas,800,37,Zona Sul
+49,ELV-049,Vila Havaí,São Paulo,SP,"Vila Havaí, São Paulo, SP",Atlas Sigma 2000,2016,ThyssenKrupp,800,14,Zona Leste
+50,ELV-050,Alípio De Melo,São Paulo,SP,"Alípio De Melo, São Paulo, SP",Otis Gen2,2013,Otis,800,52,Centro
+51,ELV-051,Vila Independencia 1ª Seção,São Paulo,SP,"Vila Independencia 1ª Seção, São Paulo, SP",Schindler 5500,2020,ThyssenKrupp,800,58,Zona Oeste
+52,ELV-052,Jardim Dos Comerciarios,São Paulo,SP,"Jardim Dos Comerciarios, São Paulo, SP",Atlas Sigma 2000,2017,Otis,600,28,Zona Leste
+53,ELV-053,Petropolis,São Paulo,SP,"Petropolis, São Paulo, SP",Thyssen Evo,2021,Schindler,450,11,Zona Norte
+54,ELV-054,São Gonçalo,São Paulo,SP,"São Gonçalo, São Paulo, SP",Atlas Sigma 2000,2018,ThyssenKrupp,800,59,Zona Sul
+55,ELV-055,Prado,São Paulo,SP,"Prado, São Paulo, SP",Thyssen Evo,2015,Otis,450,43,Zona Oeste
+56,ELV-056,Serrano,São Paulo,SP,"Serrano, São Paulo, SP",Atlas Sigma 2000,2023,ThyssenKrupp,450,1,Zona Oeste
+57,ELV-057,Vila Da Luz,São Paulo,SP,"Vila Da Luz, São Paulo, SP",Schindler 5500,2011,Atlas,600,6,Centro
+58,ELV-058,Vila Real 1ª Seção,São Paulo,SP,"Vila Real 1ª Seção, São Paulo, SP",Atlas Sigma 2000,2014,Otis,800,56,Zona Norte
+59,ELV-059,Vila Jardim Alvorada,São Paulo,SP,"Vila Jardim Alvorada, São Paulo, SP",Schindler 5500,2010,ThyssenKrupp,800,51,Zona Norte
+60,ELV-060,Vila Jardim Montanhes,São Paulo,SP,"Vila Jardim Montanhes, São Paulo, SP",Atlas Sigma 2000,2017,Atlas,600,4,Zona Sul

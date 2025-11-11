@@ -1,0 +1,21 @@
+id_tecnico,nome_tecnico,nivel_experiencia,regiao_atendimento,cidade_base,uf
+1,Ana Pires,pleno,Centro,São Paulo,SP
+2,Evelyn Martins,pleno,Zona Sul,São Paulo,SP
+3,Camila Carvalho,pleno,Zona Sul,São Paulo,SP
+4,Ryan Martins,pleno,Centro,São Paulo,SP
+5,Matteo Ferreira,pleno,Zona Norte,São Paulo,SP
+6,Henry Gabriel da Mota,pleno,Zona Leste,São Paulo,SP
+7,Gabriela Nunes,junior,Centro,São Paulo,SP
+8,Josué Araújo,senior,Zona Leste,São Paulo,SP
+9,Lara Sá,pleno,Zona Norte,São Paulo,SP
+10,Ana Clara Barros,pleno,Zona Leste,São Paulo,SP
+11,Evelyn Gonçalves,junior,Zona Norte,São Paulo,SP
+12,Davi Luiz Caldeira,junior,Zona Leste,São Paulo,SP
+13,Alícia Novaes,pleno,Zona Oeste,São Paulo,SP
+14,Benicio Albuquerque,pleno,Zona Leste,São Paulo,SP
+15,Lucas Almeida,junior,Zona Sul,São Paulo,SP
+16,Valentina da Cunha,junior,Zona Leste,São Paulo,SP
+17,Hellena Leão,pleno,Zona Oeste,São Paulo,SP
+18,Rael Almeida,junior,Zona Oeste,São Paulo,SP
+19,Vinicius da Conceição,pleno,Zona Norte,São Paulo,SP
+20,Marcelo da Cruz,pleno,Centro,São Paulo,SP

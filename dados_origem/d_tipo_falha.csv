@@ -1,0 +1,9 @@
+id_tipo_falha,tipo_falha,descricao_falha,criticidade
+1,elétrica,Pane no motor ou fiação,alta
+2,elétrica,Falha no painel de controle,média
+3,mecânica,Porta não fecha/abre,média
+4,mecânica,Ruído excessivo ou vibração,baixa
+5,segurança,Falha no sensor de porta,baixa
+6,segurança,Parada de emergência acionada,alta
+7,preventiva,Inspeção de rotina,baixa
+8,preventiva,Lubrificação de componentes,baixa

@@ -1,0 +1,71 @@
+id_cliente,nome_cliente,tipo_cliente,cidade,bairro,qtd_elevadores,contrato_ativo
+1,Condomínio Ferreira Plaza,residencial,Almeida de Lopes,União,7,True
+2,Condomínio Rezende Plaza,residencial,Araújo,Dom Silverio,4,True
+3,Oliveira S/A,industrial,Sales,São Marcos,6,True
+4,Brito e Filhos,comercial,Camargo Paulista,Barão Homem De Melo 3ª Seção,4,True
+5,Condomínio Sá Plaza,residencial,Campos,Dom Cabral,5,True
+6,Condomínio da Mota Plaza,residencial,Jesus de Novais,Conjunto Bonsucesso,3,True
+7,Condomínio Marques Plaza,residencial,Montenegro do Oeste,Jaraguá,3,False
+8,Condomínio Correia Plaza,residencial,Novaes de Brito,São João Batista,5,True
+9,Condomínio Farias Plaza,residencial,da Luz,Prado,2,True
+10,Farias Guerra Ltda.,industrial,Freitas Verde,Cruzeiro,6,True
+11,Condomínio Gonçalves Towers,residencial,Mendonça do Amparo,Minas Brasil,9,True
+12,Martins,comercial,Silva,Vila Puc,3,False
+13,Ramos,comercial,Mendonça do Galho,Itaipu,7,True
+14,Rezende e Filhos,comercial,Jesus,Ribeiro De Abreu,2,True
+15,da Rosa,comercial,Camargo de Correia,Jardim Montanhês,2,True
+16,Condomínio Fogaça Gardens,residencial,Cunha Grande,Barreiro,2,True
+17,Condomínio Cavalcante Plaza,residencial,Martins Alegre,Vila Olhos D'água,4,True
+18,Condomínio Machado Plaza,residencial,Vasconcelos Grande,Prado,6,True
+19,Nogueira e Filhos,industrial,da Cunha das Flores,Leonina,8,True
+20,Condomínio Jesus Gardens,residencial,Siqueira,Alto Dos Pinheiros,4,True
+21,Condomínio Vasconcelos Gardens,residencial,da Conceição da Prata,Alto Das Antenas,4,True
+22,Gomes e Filhos,comercial,Castro,Vila Copasa,2,True
+23,Condomínio Fogaça Gardens,residencial,Borges,Cônego Pinheiro 1ª Seção,6,True
+24,Ribeiro,industrial,das Neves,Cruzeiro,10,True
+25,Pires Garcia - ME,industrial,Abreu,Barreiro,7,True
+26,Condomínio Albuquerque Gardens,residencial,Mendonça,Santa Margarida,6,True
+27,Condomínio Sampaio Gardens,residencial,Moraes do Amparo,Marieta 3ª Seção,2,True
+28,Condomínio Brito Gardens,residencial,Sousa,Goiania,2,True
+29,Condomínio Cavalcanti Plaza,residencial,Andrade,Funcionários,3,True
+30,Condomínio Silveira Plaza,residencial,Machado,Fernão Dias,5,True
+31,Condomínio da Rocha Plaza,residencial,Jesus,Caiçaras,6,False
+32,Condomínio Montenegro Towers,residencial,Pires de Goiás,São Pedro,2,True
+33,Condomínio Câmara Gardens,residencial,Nascimento Alegre,Vila Da Paz,10,True
+34,Condomínio Moraes Towers,residencial,Pinto de Pimenta,Vila Sumaré,5,True
+35,Pacheco,industrial,Lopes da Mata,Mariano De Abreu,6,True
+36,Condomínio Caldeira Plaza,residencial,Casa Grande,Granja Werneck,5,True
+37,Azevedo,comercial,Mendes,Vila São Rafael,2,True
+38,Condomínio Macedo Gardens,residencial,Moura do Galho,Dona Clara,10,True
+39,Condomínio Ferreira Gardens,residencial,Garcia,Solimoes,9,True
+40,Condomínio Fernandes Towers,residencial,Rezende do Oeste,Novo Santa Cecilia,7,True
+41,Condomínio Ramos Plaza,residencial,Sousa,Monsenhor Messias,3,True
+42,Condomínio Cardoso Gardens,residencial,Porto das Flores,Pompéia,7,True
+43,Condomínio Lima Towers,residencial,Andrade da Serra,Camargos,10,True
+44,Condomínio Silveira Gardens,residencial,Silva,Nova Vista,7,True
+45,Condomínio Sampaio Gardens,residencial,Macedo do Oeste,Vila Bandeirantes,6,True
+46,Condomínio Oliveira Gardens,residencial,Leão Paulista,Vila Rica,9,True
+47,Condomínio Sousa Gardens,residencial,das Neves,Vila Vista Alegre,7,True
+48,Melo Moreira Ltda.,comercial,Cassiano do Amparo,Vila Da Luz,5,True
+49,da Mata,industrial,Porto,Pedreira Padro Lopes,4,True
+50,Duarte,industrial,Pastor,Penha,5,True
+51,Condomínio Teixeira Gardens,residencial,Carvalho,Vila Nova Cachoeirinha 2ª Seção,3,False
+52,Condomínio Oliveira Gardens,residencial,Cardoso,Serra,3,True
+53,Pires S/A,comercial,Macedo,Suzana,6,True
+54,Condomínio Duarte Towers,residencial,Rocha,Santa Sofia,8,True
+55,Ferreira,industrial,Macedo Grande,Serra Do Curral,7,True
+56,da Cunha S/A,comercial,Albuquerque,Cidade Nova,10,True
+57,Condomínio Rezende Plaza,residencial,Melo,Sport Club,9,True
+58,Condomínio Pires Plaza,residencial,Rios,Serra,7,True
+59,Condomínio Silveira Gardens,residencial,Silveira do Amparo,Varzea Da Palma,6,True
+60,Condomínio da Paz Towers,residencial,Azevedo,Vila São Dimas,9,True
+61,Condomínio Nunes Gardens,residencial,Duarte,Vila Jardim Alvorada,2,True
+62,Condomínio Rios Gardens,residencial,Lopes,Lagoinha,6,True
+63,Condomínio Teixeira Towers,residencial,Peixoto Grande,Conjunto Santa Maria,2,True
+64,Alves,comercial,Vieira,Heliopolis,10,True
+65,Leão,comercial,Pires,Conjunto Jardim Filadélfia,7,True
+66,Condomínio Jesus Plaza,residencial,Oliveira,Jardim Alvorada,9,True
+67,Cirino Rocha S/A,industrial,Moraes,Maria Tereza,5,True
+68,Sousa,comercial,Fernandes de Fogaça,Camargos,10,True
+69,Condomínio da Paz Towers,residencial,Silveira da Mata,Vila Vista Alegre,6,True
+70,Condomínio Sales Plaza,residencial,Camargo,Capitão Eduardo,5,True

@@ -10,10 +10,12 @@ Este documento descreve todas as tabelas do projeto (dimensões e fatos) com sua
 | :--- | :--- | :--- | :--- |
 | id_elevador | inteiro | Identificador único do elevador | 14 |
 | codigo_elevador | texto | Código interno ou de patrimônio | ELV-014 |
+| id_cliente | inteiro | Chave estrangeira para d_clientes (dono do elevador)** | 25 |
 | bairro | texto | Bairro onde o elevador está localizado | Vila Mariana |
 | cidade | texto | Cidade de instalação do elevador | São Paulo |
 | uf | texto | Unidade federativa (sigla) | SP |
 | localizacao_mapa | texto | Campo concatenado para geolocalização no Power BI | Vila Mariana, São Paulo, SP |
+| regiao_atendimento | texto | Região principal onde o elevador está localizado | Zona Sul |
 | modelo | texto | Modelo do elevador | Atlas Sigma 2000 |
 | ano_instalacao | inteiro | Ano de instalação do elevador | 2018 |
 | fabricante | texto | Nome do fabricante | Otis |
@@ -105,7 +107,7 @@ Este documento descreve todas as tabelas do projeto (dimensões e fatos) com sua
 * Use `faker.company()` ou nomes fictícios de condomínios.
 * Distribua tipos de cliente em proporções aproximadas:
     * **residencial** (60%)
-    * **comercal** (30%)
+    * **comercial** (30%)
     * **industrial** (10%)
 * `qtd_elevadores` pode variar entre 1 e 10, dependendo do tipo do cliente.
 * Essa dimensão permitirá segmentar custos e indicadores de manutenção por cliente.
